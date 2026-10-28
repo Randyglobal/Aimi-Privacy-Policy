@@ -98,5 +98,5 @@ If we make important changes, we will update the effective date above and let yo
 
 ## Contact
 
-Questions or requests about your privacy: **a****i****m****i****a****s****i****s****t****@****g****m****a****i****l****.****c****o****m**
+Questions or requests about your privacy: **a****i****m****i****a****s****i****s****t****@****0****1****g****m****a****i****l****.****c****o****m**
 
