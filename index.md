@@ -1,4 +1,3 @@
-# Aimi Privacy Policy
 
 Oct 28, 2026 · @Ray
 
