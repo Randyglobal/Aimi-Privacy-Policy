@@ -100,10 +100,3 @@ If we make important changes, we will update the effective date above and let yo
 
 Questions or requests about your privacy: **a****i****m****i****a****s****i****s****t****@****g****m****a****i****l****.****c****o****m**
 
-## Before publishing (delete this section)
-
-- [ ] Replace \[Month Day, Year\], \[Your full legal name\] and \[your contact email\]. Use an email you check, such as a new address just for Aimi.
-- [ ] Remove rows for features you haven't built yet (barcode scanning, payments, Apple sign-in), and add them back when you do.
-- [ ] Check that Settings really offers data export and account deletion as described.
-- [ ] Answer Apple's App Privacy questionnaire and Google's Data safety form so they match this policy.
-- [ ] Have a lawyer review it before charging users or launching in the EU, UK or California, which have stricter privacy laws. This draft is a starting point, not legal advice.
